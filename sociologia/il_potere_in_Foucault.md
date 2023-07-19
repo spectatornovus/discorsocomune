@@ -1,0 +1,32 @@
+# Il potere in Michel Foucault
+
+Nella visione corrente il potere è repressione o oppressione, l'azione con la quale alcuni impongono ad altri alcune cose, o sottraggono loro beni e risorse. Negli anni Settanta del secolo scorso Michel Foucault ha mostrato, in studi che restano fondamentali per la riflessione attuale del potere, che una simile rappresentazione è inadeguata per comprendere il funzionamento del potere nelle società moderne. 
+
+Per illustrare questa trasformazione Foucault affianca, nelle prime pagine di *Sorvegliare e punire. Nascita della prigione* (1975) la descrizione di un supplizio a Parigi nel 1757 alla descrizione della giornata tipo di un detenuto nel 1838. Nel primo caso il condannato viene sottoposto a torture atroci e infine squartato; nel secondo caso si stabilisce un fitto programma per la giornata dei detenuti, che comprende anche un tempo dedicato allo studio. In questo periodo accade dunque che tramontano le punizioni pubbliche, che intendevano educare con il loro carattere esemplare, e nasce la prigione come luogo in cui si intende recuperare chi si è macchiato di un crimine. Il detenuto può essere recuperato solo se sottoposto a un regime disciplinare capillare, minuzioso, che regola la sua vita fin nei dettagli, e recluso in una istituzione in cui sia possibile la sua sorveglianza costante. Se precedentemente il detenuto veniva recluso nel buio delle segrete, ora il carcere ha come modello il Panopticon immaginato dal filosofo Jeremy Bentham: una struttura ad anello con delle celle e una torre centrale, dalla quale è possibile osservare tutti coloro che sono reclusi nelle celle. "Basta allora mettere un sorvegliante nella torre centrale, ed in ogni cella rinchiudere un pazzo, un ammalato, un condannato, un operaio o uno scolaro", scrive Foucault [^1]. Infatti questo tipo di struttura non riguarda solo il carcere, ma è una costante delle organizzazioni di quello che il filosofo chiama potere disciplinare, proprio dell'età moderna; anche il manicomio, dunque, la scuola e la fabbrica. Il potere moderno si esprime attraverso istituzioni nelle quali i soggetti sono sottoposti ad uno sguardo costante, ad un continuo controllo che impedisce sul nascere qualsiasi comportamento deviante. 
+
+Alla fine del XVIII secolo il potere subisce una trasformazione radicale con la nascita della biopolitica, che per Foucault caratterizza anche la società attuale. Il potere tradizionale si esprime come potere di vita e di morte; il sovrano può anche togliere la vita. "Il potere - scrive Foucault nel primo volume della *Storia della sessualità* - era innanzitutto diritto di prendere: sulle cose, il tempo, i corpi ed infine la vita; fino a culminare nel privilegio d’impadronirsene per sopprimerla" [^2]. Ora il potere invece si occupa soprattutto di gestire la vita, "incomincia a gestirla, a potenziarla, a moltiplicarla, ad esercitare su di essa controlli precisi e regolazioni d'insieme". Nasce in questo periodo il concetto di popolazione, che sostituisce tanto quello di sudditi quanto quello di popolo. La popolazione non è una massa da sottomettere, ma una risorsa da gestire: bisogna occuparsi della salute fisica e mentale, della fecondità e natalità, dell'alimentazione e così via. Un tale potere ha bisogno dunque di un intero sistema di saperi disciplinari, come la biologia e la genetica, ma anche la psichiatria, la sociologia, la criminologia. Questi saperi agiscono come separando il normale dal patologico, una distinzione che serve ad esercitare le pratiche disciplinari di cui abbiamo parlato per normalizzare ciò che è patologico. Tutt'altro che neutro, il sapere è dunque legato al potere e fonda e giustifica la violenza verso qualsiasi soggetto che si allontani dalla norma. 
+
+E' qui evidente il lato oscuro della biopolitica. La promozione della vita può condurre non solo all'eugenetica, ma anche alla violenza verso chiunque sia fisicamente o mentalmente disabile, in nome di una positività che non ammette imperfezioni. Sul piano del diritto, al passaggio dal potere tradizionale alla biopolitica corrisponde il passaggio dalla legge alla norma. La legge è l'aspetto minaccioso del diritto, funziona attraverso la punizione di chi trasgredisce, ed al limite con la pena di morte. Il biopotere ha bisogno di altro. "Un tale potere - scrive Foucault - deve qualificare, misurare, apprezzare, gerarchizzare, piuttosto che manifestarsi nel suo scoppio omicida; non deve tracciare la linea che separa i nemici del sovrano dai soggetti obbedienti; opera distribuzioni intorno alla norma" [^3]. La legge non scompare, ma ha sempre più una funzione regolativa, e il potere del sistema giudiziario è integrato, quando non sostituito, da quelli di altri apparati, come quello medico. 
+
+Quest'ultima considerazione ci porta ad un'ulteriore caratteristica del potere moderno. Esso non è possesso di alcuni, ma circola per così dire in tutta la società; non funziona con una struttura gerarchica, ma in modo reticolare. In un dibattito alla tv olandese con Noam Chomsky sul tema della natura umana (1971), Foucault dichiara: 
+
+> Abbiamo la consuetudine, almeno nella nostra società europea, di considerare che il potere sia localizzato nelle mani del governo e si eserciti attraverso un certo numero di istituzioni specifiche che sono le amministrazioni, la polizia, l'esercito. Sappiamo che tutte queste istituzioni sono fatte per trasmettere gli ordini, farli applicare e punire coloro che non vi obbediscono. Ma credo che il potere politico si eserciti inoltre ulteriormente per mezzo di un certo numero di istituzioni che sembrano non avere nulla in comune con il potere politico, che sembrano indipendenti da esso ma non lo sono. Sappiamo bene che l'università e il sistema scolastico che in apparenza è fatto semplicemente per distribuire il sapere è fatto per mantenere al potere una certa classe sociale ed escludere dagli strumenti dle potere un'altra classe sociale. [^4] 
+
+ 
+
+# Note
+
+[^1]: M. Foucault, *Sorvegliare e punire*, Einaudi, Torino 2013.
+[^2]: M. Foucault, *Storia della sessualità. Vol.I: La volontà di sapere*, Feltrinelli, Milano 2013.
+[^3]: Ivi.
+[^4]: Il dibattito è disponibile qui: https://www.youtube.com/watch?v=J5wuB_p63YM
+
+
+
+```
+Testo di Antonio Vigilante. Licenza Creative Commons 4.0 International (CC BY 4.0).
+```
+
+ 
+
+ 
