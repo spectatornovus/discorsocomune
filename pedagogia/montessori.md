@@ -14,7 +14,7 @@ Questi risultati sembrano dimostrare che non solo che la sessualità femminile, 
  
 ## Note
 
-[^1]: D. Bergner, *Che cosa vogliono le donne. Contro i luoghi comuni su sesso e tradimento*, Einaudi, Torino 2021. [↩]
+[^1]: D. Bergner, *Che cosa vogliono le donne. Contro i luoghi comuni su sesso e tradimento*, Einaudi, Torino 2021.
 
 
 
