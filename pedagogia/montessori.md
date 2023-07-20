@@ -6,23 +6,15 @@ La sessuologa canadese **Meredith Civers** ha analizzato le reazioni di un campi
 
 La conclusione non è soltanto che le donne tendono a non esprimere sinceramente la loro sessualità, evidentemente per il timore del giudizio, ma che la sessualità femminile è più varia e complessa di quella maschile.
 
-In un altro esperimento, la sessuologa ha sottoposto a un gruppo di volontarie eterosessuali non dei video porno, ma delle audiocassette che raccontavano situazioni erotiche. In queste storie il seduttore, di entrambi i sessi, poteva essere persona sconosciuta o amica. Anche in questo caso i dati registrati divergevano completamente da quanto dichiarato dalle volontarie. Le donne erano eccitate da scene di sesso con donne estranee, anche se dichiaravano il contrario, ma l'eccitazione in particolare era molto forte nel caso in cui il seduttore era un uomo estraneo. "Tutto ciò - osserva Daniel Bergner - contrastava con il presupposto sociale secondo cui la sessualità femminile si nutre di legami emotivi, d'intimità consolidata, di un senso di sicurezza". [1](https://www.discorsocomune.info/2021/09/due-esperimenti-sulla-sessualita_19.html#dfref-footnote-1)
+In un altro esperimento, la sessuologa ha sottoposto a un gruppo di volontarie eterosessuali non dei video porno, ma delle audiocassette che raccontavano situazioni erotiche. In queste storie il seduttore, di entrambi i sessi, poteva essere persona sconosciuta o amica. Anche in questo caso i dati registrati divergevano completamente da quanto dichiarato dalle volontarie. Le donne erano eccitate da scene di sesso con donne estranee, anche se dichiaravano il contrario, ma l'eccitazione in particolare era molto forte nel caso in cui il seduttore era un uomo estraneo. "Tutto ciò - osserva Daniel Bergner - contrastava con il presupposto sociale secondo cui la sessualità femminile si nutre di legami emotivi, d'intimità consolidata, di un senso di sicurezza". [^1]
 
 Questi risultati sembrano dimostrare che non solo che la sessualità femminile, con i suoi tratti di pudore e di ritrosia, è una costruzione culturale, ma che la sessualità femminile è anche più vivace di quella maschile e che è normale, anche in donne che si dichiarano eterosessuali, una sensibile inclinazione al sesso lesbico. Se le cose stanno così, è evidente che le donne sono sottoposte a una pressione sociale per adeguarsi alle aspettative sociali, con evidenti conseguenze non solo sulla libertà sessuale, ma anche sulla salute psicologica.
 
 
+ 
+## Note
 
-<a href="#dfref-footnote-2" name="ref-footnote-2">2</a></sup>
-
-<p><span class="md-fn-count">16</span> Una discussione più approfondita può trarre beneficio dal considerare le intersezioni con l'estetica ambientale. Per inziaiere si può dare uno sguardo al capitolo di Yuriko Saito in questo volume e al lavoro di Arnold Berleant. <a name="dfref-footnote-16" href="#ref-footnote-16" title="torna al documento" class="reversefootnote">↩</a></p>
-<p> </p>
-
- 
-
-### 
-
-1 D. Bergner, *Che cosa vogliono le donne. Contro i luoghi comuni su sesso e tradimento*, Einaudi, Torino 2021. [↩](https://www.discorsocomune.info/2021/09/due-esperimenti-sulla-sessualita_19.html#ref-footnote-1)
+[^1]: D. Bergner, *Che cosa vogliono le donne. Contro i luoghi comuni su sesso e tradimento*, Einaudi, Torino 2021. [↩]
 
 
-
-Photo by [Yoann Boyer](https://unsplash.com/@yoannboyer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/woman?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
