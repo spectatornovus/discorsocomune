@@ -1,0 +1,25 @@
+# René Girard: il desiderio, la violenza e il sacro
+
+Alla fine degli anni cinquanta René Girard, giovane docente di letteratura all'università John Hopkins di Baltimora, è impegnato in una ricerca sul romanzo moderno, che sfocerà nel libro *Menzogna romantica e verità romanzesca* (*Mensonge romantique et vérité romanesque*, 1961). Analizzando i personaggi dei romanzi di autori come Cervantes, Proust e Dostevskij, Girard giunge a individuare quella che gli sembra essere una caratteristica universale dell'essere umano, che gli scrittori sono riusciti a rappresentare con finezza psicologica. Noi siamo esseri che desiderano. Il nostro desiderio tuttavia non è semplicemente indirizzato verso un oggetto, ma giunge all'oggetto attraverso la mediazione dell'altro. Noi, cioè, **desideriamo ciò che desidera l'altro**, e *in quanto* lo desidera l'altro. In questo senso Girard afferma che **il desiderio è mimetico**. Desiderando imitiamo l'altro, e non un altro qualsiasi, ma un altro cui riconosciamo il ruolo di modello. Desideriamo le cose che desidera l'altro perché vogliamo essere come l'altro, anche se è un desiderio che nascondiamo a noi stessi: ci pensiamo come individui autonomi, mentre la verità, che il romanzo mette a nudo, è che siamo imitatori. 
+
+Ma questa imitazione genera presto un conflitto. Le cose che possiede l'altro che cerchiamo di imitare non sono sempre a disposizione di tutti. Don Chisciotte può senz'altro imitare Amadigi di Gaula senza entrare in conflitto con lui, ma in un contesto sociale ed economico colui che desidera ciò che io possiedo diventa inevitabilmente un rivale. E' così che **il desiderio mimetico sfocia nella violenza**. E per Girard non è una violenza tra le altre, ma la più radicale forma di violenza sociale. Qualcosa che minaccia l'esistenza stessa della società, e che le società devono esorcizzare. Lo strumento che le culture usano per esorcizzare questa violenza che sempre le minaccia è il sacro. 
+
+E' questa la tesi che Girard sviluppa a partire da *La violenza e il sacro* del 1972. Che il sacro abbia un rapporto con la violenza è evidente dalla pratica, universalmente diffusa, del sacrificio. Come si spiega che in tante culture si ricorra al sacrificio rituale? Il conflitto legato al desiderio genera una violenza che culmina nell'uccisione. L'uccisione a sua volta causa la vendetta. Si innesca così un meccanismo violento che si autoalimenta, perché la vendetta chiama altra vendetta, in un processo senza fine. Nelle società in cui esistono istituzioni giudiziarie l'escalation viene contenuta dall'intervento della magistratura, che punendo il colpevole rende non più necessaria la vendetta. Nelle società primitive invece interviene la religione, **indirizzando la violenza di tutta la collettività verso una sola vittima - il capro espiatorio - che viene sacrificata**. La scelta della vittima sembra casuale e cambia nelle diverse culture: in alcune sono gli schiavi, in altre i bambini, in altre ancora i soggetti con minorazioni. Per Girard la logica è quella di scegliere vittime che abbiano qualche rapporto con la comunità, ma non troppo stretto; che dunque possano essere uccise senza che i parenti ricorrano alla rappresaglia. 
+
+Questo non vuol dire che la religione sia solo violenta. La religione è quella violenza che consente di minimizzare la violenza sociale. 
+
+> Il religioso primitivo - scrive Girard - addomestica la violenza, la regola, la ordina e la incanala allo scopo di usarla contro ogni forma di violenza propriamente intollerabile e questo in una generale atmosfera di non violenza e di acquietamento. Definisce una strana combinazione di violenza e di non violenza. Si può dire più o meno la stessa cosa del sistema giudiziario. [^1]
+
+Il sistema giudiziario funziona in modo infinitamente più efficace del sacro, ma segue una logica non diversa. Impedisce la vendetta assumendone il monopolio ed esercitando una violenza legittima su colui che condanna. In questo caso la vittima della violenza non viene vendicata non perché non c'è nessuno che abbia solidi legami con lei, ma perché la violenza giudiziaria si presenta come super partes, al servizio della comunità e non di gruppi particolari. 
+
+Negli anni successivi, a partire dal libro *Delle cose nascoste sin dalla fondazione del mondo* (1978), Girard ha sviluppato e completato la sua teoria del sacro con una interpretazione del **cristianesimo come religione che svela il meccanismo violento della religione**. Nel Vangelo Gesù Cristo compare come vittima sacrificale, ma è una vittima che viene presentata come innocente, mentre il sacrificio richiede la colpevolizzazione della vittima. La condanna a morte di un uomo-dio assolutamente innocente da un lato mette in luce e condanna il meccanismo sacrificale, rappresentato dalla figura di Satana, e dall'altra mostra la possibilità di una concezione del divino estranea alla violenza ed al sacrificio. 
+
+## Note
+
+[^1]: R. Girard, *La violenza e il sacro*, tr. it., Adelphi, Milano 1980.
+
+
+
+```
+Testo di Antonio Vigilante. Licenza Creative Commons 4.0 International (CC BY 4.0).
+```
